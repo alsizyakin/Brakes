@@ -1,5 +1,6 @@
-slprj
-/slprj
+slprj/
 *.lib
 *.mexa64
 *.mexw64
+*.slxc
+
